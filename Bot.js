@@ -9,8 +9,8 @@ const client = new Client({
     disableEveryone: true
 });
 let checkinterval;
-let serverid = ""
-let token = ""
+let serverid = "123bbdelih"
+let token = "MTAzNTkyOTE2MTU3MjgxODk0NA.G_W2P8.69po2VColhMJ4b-rrw3OsZ_FCcz6W1wtdBmMzw"
 let updating = false
 let BotData
 let disabledcmd = []
